@@ -1,0 +1,126 @@
+{
+  "Epic": [
+    {
+      "name": "Favorite Toy",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "effects": [
+        "On Special Attack 2 there is a 100% chance that the seal will throw his explosive toy at the opponent, applying Cripple and dealing 5% Max Health damage.",
+        "40% Damage boost against enemies affected by Cripple.",
+        "600% Damage boost; Twisted Tower only.",
+        "1 Bar of Power on tag-in and at the start of the match when equipped on a starting character. (Unlocks at fusion level X)."
+      ]
+    },
+    {
+      "name": "Time Traveler's Arms Cache",
+      "type": "Weapon",
+      "rarity": "Epic",
+      "effects": [
+        "100% Chance to gain Strengthen after the user performs any Special Attack. Strengthen can stack up to 3 times.",
+        "Each next Special attack deals 10% more damage than the previous, stacks up to 5 times.",
+        "600% Damage boost; Twisted Tower only.",
+        "[TERMINATOR] On opponent's tag-out, there is 50% chance that the opponent will be stopped from leaving by a grenade dealing formidable damage and applying Stun for 3 seconds.",
+        "[TERMINATOR][SET] If this is equipped alongside Time Traveler's Cool-Factor, any DIAMOND Terminator gains a 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, a Brutality is performed instead of the Special Combo Ender, ending the fight immediately.",
+        "Special Attacks deal 20% of damage to all opponents. (Unlocks at fusion level X)."
+      ]
+    },
+    {
+      "name": "Tamer's Hessian Boots",
+      "type": "Armor",
+      "rarity": "Epic",
+      "effects": [
+        "55% Max Health boost.",
+        "30% Power generation boost.",
+        "1200% Max Health boost; Twisted Tower only.",
+        "[SINDEL] Sindel has a 70% chance to scream when her teammate is being attacked with a Special Attack. The scream deals low damage, applies Slow to the opponent and slightly heals Sindel.",
+        "[SINDEL][SET] If this is equipped alongside Tamer's Sinful Whip, any DIAMOND Sindel gains a 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, a Brutality is performed instead of the Special Combo Ender, ending the fight immediately.",
+        "If the opponent is affected by any debuff, they deal 40% less damage from Special Attacks against the user. (Unlocks at fusion level X)."
+      ]
+    },
+    {
+      "name": "Misfortune Teller",
+      "type": "Accessory",
+      "rarity": "Epic",
+      "effects": [
+        "100% Chance to apply Curse debuff to the whole opponent team on successful Special Attack 1.",
+        "70% Critical Hit chance boost against enemies affected by Curse.",
+        "225% Damage boost; Twisted Tower only.",
+        "450% Max Health boost; Twisted Tower only.",
+        "Misfortune foresight gives a 30% chance to gain Invulnerability for 5 seconds before any incoming Special Attack. (Unlocks at fusion level X)."
+      ]
+    }
+  ],
+  "Rare": [
+    {
+      "name": "Tamer's Sinful Whip",
+      "type": "Weapon",
+      "rarity": "Rare",
+      "effects": [
+        "45% Basic Attacks unblockable chance.",
+        "35% Chance to apply random negative effect on Combo Enders. Negative effects include Bleed, Fire, Poison, Blind, Weaken, Cripple, Curse, Shield Break.",
+        "300% Damage boost; Twisted Tower only.",
+        "[SINDEL][SET] If this is equipped alongside Tamer's Hessian Boots, any DIAMOND Sindel gains a 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, a Brutality is performed instead of the Special Combo Ender, ending the fight immediately.",
+        "60% Damage boost against enemies affected by Bleed, Fire, Poison, Blind, Weaken, Cripple, Curse, Shield Break. (Unlocks at fusion level X)."
+      ]
+    },
+    {
+      "name": "Time Traveler's Cool-factor",
+      "type": "Armor",
+      "rarity": "Rare",
+      "effects": [
+        "50% Incoming Damage Over Time and Dark Magic damage reduction.",
+        "Regenerates 2 Bars of Power over 10 seconds below 50% health. This effect cannot be triggered more than one time without tagging out. 3 times per match.",
+        "600% Max Health boost; Twisted Tower only.",
+        "[TERMINATOR][SET] If this is equipped alongside Time Traveler's Arms Cache, any DIAMOND Terminator gains a 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, a Brutality is performed instead of the Special Combo Ender, ending the fight immediately.",
+        "Any positive kombat effect on the wearer excluding Regeneration lasts 30% longer. (Unlocks at fusion level X)."
+      ]
+    },
+    {
+      "name": "Weekend Dad",
+      "type": "Accessory",
+      "rarity": "Rare",
+      "effects": [
+        "Gain Shield at the start of the match and on tag-in for 15 seconds.",
+        "Successful Basic Attacks have a 25% chance to Vampire 50% damage.",
+        "150% Damage boost; Twisted Tower only.",
+        "300% Max Health boost; Twisted Tower only.",
+        "Achieving 90%+ on any Special Attack applies Oblivion for 10 seconds. (Unlocks at fusion level X)."
+      ]
+    }
+  ],
+  "Uncommon": [
+    {
+      "name": "Carnival Swill",
+      "type": "Accessory",
+      "rarity": "Uncommon",
+      "effects": [
+        "100% Resistance to Fire.",
+        "80% Damage boost; Twisted Tower only.",
+        "160% Max Health boost; Twisted Tower only.",
+        "User recovers health from Poison Damage Over Time instead of taking damage. (Unlocks at fusion level X)."
+      ]
+    },
+    {
+      "name": "Decoy Invitation",
+      "type": "Accessory",
+      "rarity": "Uncommon",
+      "effects": [
+        "50% Chance to drain 33% Power on Special Attack 1.",
+        "80% Damage boost; Twisted Tower only.",
+        "160% Max Health boost; Twisted Tower only.",
+        "Gain 20% more Power from hitting an opponent. (Unlocks at fusion level X)."
+      ]
+    },
+    {
+      "name": "Training Grounds",
+      "type": "Accessory",
+      "rarity": "Uncommon",
+      "effects": [
+        "40% Basic Attack damage boost.",
+        "80% Damage boost; Twisted Tower only.",
+        "160% Max Health boost; Twisted Tower only.",
+        "25% Chance to apply Bleed on Combo Ender. (Unlocks at fusion level X)."
+      ]
+    }
+  ]
+}
