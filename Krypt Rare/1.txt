@@ -1,0 +1,8 @@
+Taira's Clan Suit
+Rare
+Armor
+
+Take 50% less damage from all attacks when blocking.
+While the user is active, his power generation increases by 5% every 5sec. Maximum 30%.
+[KENSHI][SET] If this is equipped alongside Taira's Clan 6th sense, any DIAMOND or ASCENDED Fusion V Kenshi gains 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, a Brutality is performed instead of the Special Combo Ender, ending the fight immediately.
+Health is restored by 10% after performing any successful Special Attack. Maximum 5 times per battle.

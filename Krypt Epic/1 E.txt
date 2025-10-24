@@ -1,0 +1,10 @@
+Name:Taira's Clans 6th Sense
+Cost:Epic
+Type:Accessory
+
+Description: 40% Basic Attack Unblockable Chance
+Description: 50% Chance to increase Speed by 1% on block breaker attack. Max 15%.
+Description: [KENSHI] 75% Chance to apply 6th Sense buff for 10sec. after Special Attack 2. It increases damage by 5% every second while the buff is active and makes all attacks Sneak attacks. 
+Successful Basic Hits have a 7% chance to increase the duration of the buff by 3sec. 
+Description: [KENSHI] [SET] If this is equipped alongside Taira's Clan Suit, any DIAMOND or ASCENDED Fusion V Kenshi gains a 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, a Brutality is performed instead of the Special Combo Ender, ending the fight immediately.
+Description: Gain 2 Bars of Power at the start of the match or at the first user`s tag-in and 80% resistance to all debuffs for the first 30sec. while the user is active.

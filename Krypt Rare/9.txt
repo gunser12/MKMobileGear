@@ -1,0 +1,8 @@
+RARE
+Bionic Eye
+WEAPON
+
+35% Critical Hit chance boost.
+15% Chance to apply Death Mark on Critical Basic Hits.
+[KANO] [SET] If this is equipped alongside Bionic Skeleton, any DIAMOND Kano gains the ability to perform a Friendship. Once the opponent's Health is below 25% and the Friendship bar is filled up by performing multiple Special Attacks, a Friendship can be performed, ending the fight immediately.
+Special Attacks additionally deal 15% of damage to all tagged-out opponents. 15% Damage boost for each defeated opponent.

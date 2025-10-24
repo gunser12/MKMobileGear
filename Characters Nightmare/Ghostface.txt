@@ -1,0 +1,26 @@
+GHOSTFACE
+Nightmare
+NETHERREALM
+
+PASSIVE
+Double Trouble 3/3
+Damage Increase Death Save Shield Ghostspirit Healing Manic
+Attacks to get Billy's Ghostspirit 2
+Attacks to remove Stu's Ghostspirit 2
+Billy gains Ghostspirit on every 2 Basic Attack, giving him 5% damage boost for every stack. Max - 5 stacks. Billy can switch with Stu. Stu uses Shield upon switching, and removes Ghostspirit on every 2 Basic Attack. Each removed stack heals him for 7% of max health, and gives a 5% power generation boost.
+If Billy has 5 Ghostspirits he becomes Manic for 13sec. on Special Attack 2, as he sees an impostor running out, and kills him in a rage. While Manic, Billy doesn't react to opponent's Basic Combo Attacks, has a 180% damage boost, and makes the opponent unable to tag-out.
+Stu is scared, so while Manic Billy can't switch to him, use Special Attack 2 or Fatal Blow.
+
+SYNERGY
+Before a teammate gets fatal damage, Billy suddenly bursts into the battle and attacks the opponent. Maximum 1 time per match and 1 more per each Nightmare in the team.
+
+
+Special 1
+Leaping Slash
+Attack: Medium Damage + Weaken
+SPECIAL 2
+Always Outnumbered
+Attack: High Damage + Shield Break
+X-RAY
+Flick Of The Wrist
+Fatal Blow Attack: Extreme Damage + Bane

@@ -1,0 +1,9 @@
+EPIC
+Enigmatic Well of Souls
+WEAPON
+
+50% Basic Attacks unblockable chance while the character is not affected by any debuff.
+100% Chance to apply Curse on Combo Ender for 20sec.
+[SHANG TSUNG] On tag-in Shang Tsung invokes the Well of Souls to the opponent. It applies a random debuff once in 10sec. The Well of Souls disappears on the opponent's tag-out.
+[SHANG TSUNG] [SET] If this is equipped alongside Enigmatic Lantern, any DIAMOND Shang Tsung gains the ability to perform a Friendship. Once the opponent's Health is below 25% and the Friendship bar is filled up by performing multiple Special Attacks, a Friendship can be performed, ending the fight immediately.
+After 25 successful Critical Attacks, Power Drain applies to the opponent.

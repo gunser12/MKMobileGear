@@ -1,0 +1,8 @@
+Name: Royalguard's Emerald Haze
+Cost:EPIC
+Type:ACCESSORY
+40% Basic Attacks unblockable chance.
+Apply Cripple on opponent's tag-in for 10sec.
+[JADE] Before tagging out, Jade has a 80% chance to perform an unblockable attack that removes all opponent's buffs and resets timer on all debuffs and DOTs applied to the opponent.
+[JADE] [SET] If this is equipped alongside Royalguard's Cowl, any DIAMOND Jade gains the ability to perform a Friendship. Once the opponent's Health is below 25% and the Friendship bar is filled up by performing multiple Special Attacks, a Friendship can be performed, ending the fight immediately.
+Each time the opponent tries to apply a debuff to the user, there is a 65% chance the debuff will be resisted and Bleed or Poison is applied to the opponent.

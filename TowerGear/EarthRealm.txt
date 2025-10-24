@@ -1,0 +1,116 @@
+{
+  "EPIC": [
+    {
+      "name": "Wushu Master's Guandao Blade",
+      "type": "Weapon",
+      "effects": [
+        "50% Chance Basic Attack deal 50% of damage to all opponents;",
+        "30% Chance Damage boost after tag-in for 15sec. Every following damage boost gained from this Equipment is 15% more powerful. Max 75% damage boost;",
+        "600% Damage boost. ***Earthrealm Tower only.***",
+        "[KUNG LAO] Whenever an opponent uses a Special Attack gain 20% Critical Hit chance boost till the end of the match. Can stack up to 5 times.",
+        "[KUNG LAO][SET] If this is equipped alongside **Wushu Master's True Weapon**, any DIAMOND Kung Lao gains a 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, a Brutality is performed instead of the Special Combo Ender, ending the fight immediately.",
+        "Successfully performed Special Attack 2 applies Silence debuff for 15sec to the whole opponent team. Silence prevents the affected Characters from using Special Attack 1 and reduces their Power generation by 60%. (*Unlocks at fusion level X*)"
+      ]
+    },
+    {
+      "name": "The Torturer",
+      "type": "Weapon",
+      "effects": [
+        "Debuffs applied to an opponent are 30% more powerful. This applies to **Bleed**, **Fire**, **Poison**, **Blind**, **Weaken**, **Curse**, **Shield Break**, **Vampire**, **Power Drain**, and **Power Steal**.",
+        "50% Chance to apply **Fire**, **Bleed** or **Poison** on Combo Ender;",
+        "600% Damage boost. ***Earthrealm Tower only.***",
+        "50% Chance to reflect any debuff back to an opponent. Team debuffs are not affected. (*Unlocks at fusion level X*)"
+      ]
+    },
+    {
+      "name": "Famous Fashion Dominator",
+      "type": "Armor",
+      "effects": [
+        "55% Max health boost;",
+        "70% Chance to apply **Blind** to an opponent for using a Special Attack against the user;",
+        "1200% Max Health boost. ***Earthrealm Tower only.***",
+        "[JOHNNY CAGE][SET] If this is equipped alongside **Famous Dashing Smile**, any DIAMOND Johnny Cage gains a 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, a Brutality is performed instead of the Special Combo Ender, ending the fight immediately.",
+        "[JOHNNY CAGE] 10% Power generation boost after performing a successful Special Attack. Stacks up to 5 times;",
+        "Gain Energy Shield when below 80% Health. Energy Shield reduces all incoming damage when user loses Health. The more Health is lost, the higher is Energy Shield damage reduction. Maximum reduction - 50% at 20% Health and below. (*Unlocks at fusion level X*)"
+      ]
+    },
+    {
+      "name": "Jinsei Hat",
+      "type": "Accessory",
+      "effects": [
+        "50% Critical Hit chance boost;",
+        "20% Chance to apply **Weaken**, **Shield Break** or **Curse** on a Critical Hit;",
+        "225% Damage boost. ***Earthrealm Tower only.***",
+        "450% Max Health boost. ***Earthrealm Tower only.***",
+        "Once per match, avoid death by automatically tagging out before the killing blow. After tag-out user gains 1000% Recovery for 7sec. This effect does not trigger if the killing blow is Brutality. (*Unlocks at fusion level X*)"
+      ]
+    }
+  ],
+  "RARE": [
+    {
+      "name": "Famous Dashing Smile",
+      "type": "Weapon",
+      "effects": [
+        "150% Combo Ender damage boost.",
+        "40% Chance to apply **Incurability** debuff to the whole opponent team for 10sec on Special Attack 1;",
+        "300% Damage boost. ***Earthrealm Tower only.***",
+        "[JOHNNY CAGE][SET] If this is equipped alongside **Famous Fashion Dominator**, any DIAMOND Johnny Cage gains a 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, a Brutality is performed instead of the Special Combo Ender, ending the fight immediately.",
+        "Gain 30% more Power from hitting an opponent. The opponent doesn't get Power from those hits. (*Unlocks at fusion level X*)"
+      ]
+    },
+    {
+      "name": "Body of Steel",
+      "type": "Armor",
+      "effects": [
+        "30% Opponent unblockable attack chance reduction;",
+        "30% Resistance to all debuffs;",
+        "600% Max Health boost. ***Earthrealm Tower only.***",
+        "20% of incoming Basic Attack damage transforms to Health and 50% transforms to Power. (*Unlocks at fusion level X*)"
+      ]
+    },
+    {
+      "name": "Wushu Master's True Weapon",
+      "type": "Accessory",
+      "effects": [
+        "60% Basic Attack damage boost.",
+        "60% Chance to transfer 50% damage to Health on Special Attack 2;",
+        "150% Damage boost. ***Earthrealm Tower only.***",
+        "300% Max Health boost. ***Earthrealm Tower only.***",
+        "[KUNG LAO][SET] If this is equipped alongside **Wushu Master's Guandao Blade**, any DIAMOND Kung Lao gains a 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, a Brutality is performed instead of the Special Combo Ender, ending the fight immediately.",
+        "Health is increased and restored by 10% after performing any Special Attack. Max 5 times in the battle. (*Unlocks at fusion level X*)"
+      ]
+    }
+  ],
+  "UNCOMMON": [
+    {
+      "name": "Peaceful Mind",
+      "type": "Accessory",
+      "effects": [
+        "40% Opponent Critical Hit Chance reduction;",
+        "80% Damage boost. ***Earthrealm Tower only.***",
+        "160% Max Health boost. ***Earthrealm Tower only.***",
+        "15% Reduced Power cost on all Special Attacks. (*Unlocks at fusion level X*)"
+      ]
+    },
+    {
+      "name": "Jiaozi",
+      "type": "Accessory",
+      "effects": [
+        "40% Critical Hit damage boost;",
+        "80% Damage boost. ***Earthrealm Tower only.***",
+        "160% Max Health boost. ***Earthrealm Tower only.***",
+        "10% Chance to remove all active DOTs from the user when dealing a Critical Hit. DOTs from Fight Modifiers are not affected. (*Unlocks at fusion level X*)"
+      ]
+    },
+    {
+      "name": "Cyberpack 2007",
+      "type": "Accessory",
+      "effects": [
+        "30% Special Attack 1 and Special Attack 2 Critical Hit chance boost;",
+        "80% Damage boost. ***Earthrealm Tower only.***",
+        "160% Max Health boost. ***Earthrealm Tower only.***",
+        "0.5 Bar of starting Power. (*Unlocks at fusion level X*)"
+      ]
+    }
+  ]
+}

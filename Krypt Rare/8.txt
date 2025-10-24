@@ -1,0 +1,9 @@
+RARE
+Coldhearted Ninja's Cruelty
+ACCESSORY
+
+
+25% Critical Hit chance boost.
+100% Chance to apply Death Mark on successful Special Attack 2.
+[SUB-ZERO] [SET] If this is equipped alongside Coldhearted Ninja's Dark Cryomancy, any DIAMOND Sub-Zero gains the ability to perform a Friendship. Once the opponent's Health is below 25% and the Friendship bar is filled up by performing multiple Special Attacks, a Friendship can be performed, ending the fight immediately.
+Each next Critical Hit deals 10% more damage than the previous, stacks up to 4 times. Resets upon user's tag-out.

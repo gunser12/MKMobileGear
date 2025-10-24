@@ -1,0 +1,8 @@
+RARE
+Hypocritical Cape
+ACCESSORY
+
+30% Critical Hit chance boost.
+80% Chance to gain Dispel on Critical Hit from Special Attacks.
+[RAIN] [SET] If this is equipped alongside Hypocritical Gift, any DIAMOND Rain gains the ability to perform a Friendship. Once the opponent's Health is below 25% and the Friendship bar is filled up by performing multiple Special Attacks, a Friendship can be performed, ending the fight immediately.
+Apply Weaken on opponent for 5sec before any incoming Special Attack.

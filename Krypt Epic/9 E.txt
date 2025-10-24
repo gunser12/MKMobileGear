@@ -1,0 +1,9 @@
+Bionic Skeleton
+Epic
+Accessory
+
+50% Chance to apply one of the following debuffs for 5sec on Combo Enders in sequence: Slow, Snare, Curse.
+3% Special Attacks power cost reduction for each buff and debuff applied from this equipment. Maximum 30% from this equipment.
+[KANO] 100% Chance to charge Bionic Overload on Combo Enders, up to 5 stacks. Activate it by using any Special Attack, activation consumes all stacks. Gain Dispel for 1 consumed stack, Speed for 7sec for 5 consumed stacks and Invulnerability for 7sec for 5 consumed stacks.
+[KANO][SET] If this is equipped alongside Bionic Eye, any DIAMOND Kano gains the ability to perform a Friendship. Once the opponent's Health is below 25% and the Friendship bar is filled up by performing multiple Special Attacks, a Friendship can be performed, ending the fight immediately.
+Gain Power if an opponent has Slow. Gain Strengthen if an opponent has Snare. Gain Luck if an opponent has Curse. All listed buffs last 5sec.

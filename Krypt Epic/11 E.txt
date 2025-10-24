@@ -1,0 +1,9 @@
+Rebirth Liquid
+Epic
+Accessory
+
+30% Chance to transform any effect from Special Attacks into team effect. 
+Special Attack 1 additionally deals 30% of damage to all tagged-out opponents. 10% Speed boost for each defeated opponent.
+[KABAL] Kabal's Special Attacks are enhanced against stunned enemies. On such Specials, while Poison, 90% or more additionally restores 100% of the spent power. This ability works once per tag-in.
+[KABAL][SET] If this is equipped alongside Rebirth Hooks, any DIAMOND Kabal gains the ability to perform a Friendship. Once the opponent's Health is below 25% and the Friendship bar is filled up by performing multiple Special Attacks, a Friendship can be performed, ending the fight immediately.
+Prevent any damage from a single hit that exceeds 10% of your total health. Gain Shield if damage was prevented. This ability has 30sec cooldown.

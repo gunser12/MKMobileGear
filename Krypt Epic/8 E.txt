@@ -1,0 +1,9 @@
+EPIC
+Coldhearted Ninja's Dark Cryomancy
+ARMOR
+
+50% Chance to apply Curse when hitting a Frozen opponent.
+60% Opponent unblockable attack chance reduction while they are affected by Curse or a Death Mark.
+[SUB-ZERO] Sub-Zero has a 70% chance to escape opponent's Special Attack. He jumps back, leaving a frozen clone in his place. The clone shatters at a hit, dealing medium damage and leaving the opponent Frozen at the end. If the escape was successful, a 10sec cooldown initiates.
+[SUB-ZERO] [SET] If this is equipped alongside Coldhearted Ninja's Cruelty, any DIAMOND Sub-Zero gains the ability to perform a Friendship. Once the opponent's Health is below 25% and the Friendship bar is filled up by performing multiple Special Attacks, a Friendship can be performed, ending the fight immediately.
+Each successful Critical Hit reduces the damage received from the opponent by 2%. Max reduction - 40%. Resets upon user's tag-out.

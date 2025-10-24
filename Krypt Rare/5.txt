@@ -1,0 +1,8 @@
+RARE
+Necromancer's Forbidden Book
+WEAPON
+
+30% All Special Attacks unblockable chance.
+50% Chance to apply Snare on Special Attack 2.
+[QUAN CHI] [SET] If this is equipped alongside Necromancer's Death Favor, any DIAMOND or ASCENDED Fusion V Quan Chi gains a 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, a Brutality is performed instead of the Special Combo Ender, ending the fight immediately.
+Gain Power upon tag-in for 15sec.

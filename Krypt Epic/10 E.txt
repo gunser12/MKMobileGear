@@ -1,0 +1,10 @@
+Abyssal Wraith's Shadow
+Epic
+Armor
+
+All opponent team's characters need to collect 40% more Power to fill up each power bar.
+Apply Team Incurability on user's tag-in. If opponent tags out while the user is active, increase the duration of the effect by 10sec. Maximum duration 15sec.
+[NOOB SAIBOT] If opponent is affected by 3 Death Marks at a time, they receive Death Brand till the character is dead. On tag-in, Noob Saibot force tags in the opponent affected by Death Brand with the least health left, dealing 50% damage of user's base Attack.
+Death Brand additionally decreases opponent's Power generation by 10%.
+[NOOB SAIBOT][SET] If this is equipped alongside Abyssal Wraith's Nightmare, any DIAMOND Noob Saibot gains the ability to perform a Friendship. Once the opponent's Health is below 25% and the Friendship bar is filled up by performing multiple Special Attacks, a Friendship can be performed, ending the fight immediately.
+30% Chance to reflect any debuff. Team debuffs are not affected. Each reflected debuff additionally deals damage to the opponent.

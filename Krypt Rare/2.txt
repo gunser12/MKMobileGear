@@ -1,0 +1,10 @@
+RARE
+Sanguine Goddess Bloodspell
+ARMOR
+
+50% Opponent unblockable attack chance reduction.
+20% Chance to apply Bleed on Basic attacks.
+Bleed stacks up to 3 times. 3 stacks of Bleed apply Weaken on the opponent.
+[SKARLET] [SET] If this is equipped alongside Sanguine Goddess Killer Clot, any DIAMOND Skarlet gains the ability to perform a Friendship.
+Once the opponent's Health is below 25% and the Friendship bar is filled up by performing multiple Special Attacks, a Friendship can be performed, ending the fight immediately.
+60% chance to gain Shield for 5sec before any incoming Special Attack.
