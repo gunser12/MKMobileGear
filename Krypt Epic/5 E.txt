@@ -1,8 +1,0 @@
-COST: EPIC
-NAME: Necromancer's Death Favor
-TYPE: ARMOR
-55% Max Health boost.
-50% Opponent unblockable attack chance reduction.
-[QUAN CHI] Green Skull appears on the head of the current enemy with a 100% chance after performing Special Attack 1. This skull charges with green energy after the user's every successful Combo Ender. It explodes after the third Combo Ender, applying Slow and dealing high damage to the opponent.
-[QUAN CHI] [SET] If this is equipped alongside Necromancer's Forbidden Book, any DIAMOND or ASCENDED Fusion V Quan Chi gains a 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, a Brutality is performed instead of the Special Combo Ender, ending the fight immediately.
-Each next Special Attack deals 15% more damage than the previous, stacks up to 4 times.

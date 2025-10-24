@@ -1,9 +1,0 @@
-EPIC
-Midnight Stalker's Curse
-ACCESSORY
-
-Successful Basic Attacks have a 30% chance to Vampire 60% damage.
-Gain Dispel every 10sec.
-[JASON VOORHEES] [SET] If this is equipped alongside Midnight Stalker's Sight, any DIAMOND or ASCENDED Fusion V Jason Voorhees gains a 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, Brutality is performed instead of the Special Combo Ender, ending the fight immediately.
-[JASON VOORHEES] Under 25% Health Jason applies Stun on the opponent and enters Frenzy for 15sec. While it is active, he gains Invulnerability and 125% Damage Boost. The Frenzy prolongs for 5sec each time the user's attack would potentially kill the opponent. Once per match.
-For each 2 Vampire from this equipment, the user gains Speed for 2sec.

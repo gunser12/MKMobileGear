@@ -1,8 +1,0 @@
-Name: Noble Dainty Gesture
-Cost: EPIC
-Type:ACCESSORY
-50% Critical Hit chance boost.
-50% Special Attack damage boost against opponents affected by any debuff.
-[KITANA] Each Critical Hit applies a Wound to the opponent. Each 5 Wound stack applies a negative effect in the sequence: Bleed, Cripple, Slow. The user's successful Special Attack explodes all Wounds, inflicting additional damage on the opponent and applying Shield on the user. The more stacks you explode, the more damage opponent will receive and the more powerful Shield will be. Max. amount of stacks: 15. Resets upon an opponent's tag out.
-[KITANA] [SET] If this is equipped alongside Noble Graceful Tread, any DIAMOND Kitana gains the ability to perform a Friendship. Once the opponent's Health is below 25% and the Friendship bar is filled up by performing multiple Special Attacks, a Friendship can be performed, ending the fight immediately.
-For each active debuff on the opponent, the user's Special Attacks power cost is reduced by 10%. Maximum reduction - 50%.

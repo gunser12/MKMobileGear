@@ -1,9 +1,0 @@
-Name:Sanguine Goddess Killer Clot
-Cost:EPIC
-Type:WEAPON
-40% All Special Attacks unblockable chance.
-70% Chance to gain 7% max Power for all teammates after the user successfully applies Cripple or Bleed to an opponent.
-[SKARLET] At the start of the match when equipped on a starting character or at the first tag-in Skarlet creates a Blood Orb. While Skarlet is active, every 2% of max health lost by user or the active opponent fills 5% of the Orb.
-Spend 50% of Blood Orb to cast Special Attack 1 for free and 100% of Blood Orb to cast Special Attack 2 for free. Special Attacks cast this way are unblockable.
-[SKARLET] [SET] If this is equipped alongside Sanguine Goddess Bloodspell, any DIAMOND Skarlet gains the ability to perform a Friendship. Once the opponent's Health is below 25% and the Friendship bar is filled up by performing multiple Special Attacks, a Friendship can be performed, ending the fight immediately.
-For each active debuff on the opponent, the user's Special Attacks power cost is reduced by 10%. Maximum reduction - 50%.
