@@ -1,0 +1,119 @@
+{
+  "EPIC": {
+    "WEAPON": [
+      {
+        "name": "Rockin' Bowling Stones",
+        "effects": [
+          "Team gains 35% Unblockable chance on Basic attacks.",
+          "Each acquired bar of Power while tagged-in grants the user 2% Speed boost until the end of the match. Max. amount of stacks: 20.",
+          "600% Damage boost. Klassic Tower only.",
+          "[TREMOR] Tremor gains Rock Energy after every Combo Ender. Gaining 5 Rock Energy stacks causes Rock Overload which, explodes and drains all of the opponent's team power. Receiving unblocked damage or tag-out resets the number of Rock Energy stacks.",
+          "[TREMOR] [SET] If this is equipped alongside Rockin' Token, any DIAMOND or ASCENDED Tremor gains a 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, a Brutality is performed instead of the Special Combo Ender, ending the fight immediately.",
+          "User's damage increases upon losing Health. The more Health is lost, the higher the Damage is. Maximum damage boost -99% at 1% Health. (Unlocks at fusion level X)"
+        ]
+      },
+      {
+        "name": "Movie Set Star",
+        "effects": [
+          "Apply Blind on tag-in for 20sec.",
+          "If the opponent misses their attack, there is a 30% chance that animatronic will assist the user. Animatronic stomps, dealing middle damage.",
+          "600% Damage boost. Klassic Tower only.",
+          "Animatronic has a 50% chance to apply Stun to the opponent for 5sec. (Unlocks at fusion level X)"
+        ]
+      }
+    ],
+    "ARMOR": [
+      {
+        "name": "Geek Defense",
+        "effects": [
+          "400% Recovery boost.",
+          "60% Chance to gain Regeneration after performing successful Special Attack 2.",
+          "1200% Health boost. Klassic Tower only.",
+          "Teammates are healed for 20% (10% for bosses) of the Health restored by user. (Unlocks at fusion level X)"
+        ]
+      }
+    ],
+    "ACCESSORY": [
+      {
+        "name": "Restless Ninja's Figure",
+        "effects": [
+          "15% Chance to apply on Curse on Basic attacks. This Curse can stack up to 2 times.",
+          "70% Resistance to all debuffs for the user while the opponent is affected by Snare or Curse.",
+          "225% Damage boost. Klassic Tower only.",
+          "450% Health boost. Klassic Tower only.",
+          "[SCORPION] Scorpion has a 10% chance to counter-attack opponent's basic combo attacks by vanishing into the fire, crawling from under the ground and hugging the opponent's legs, dealing the fire damage and stealing the opponent's attack 10% for himself. Max 40% stolen attack from each opponent.",
+          "[SCORPION] [SET] If this is equipped alongside Restless Ninja's Call to Arms, any DIAMOND Scorpion gains an ability to perform a Friendship. Once the last opponent's Health is below 25% and the Friendship bar is filled up by performing multiple Special Attacks, a Friendship can be performed, ending the fight immediately.",
+          "After 20 successful Basic Attacks, the next successful Special Attack will inevitably be Critical. (Unlocks at fusion level X)"
+        ]
+      }
+    ]
+  },
+  "RARE": {
+    "WEAPON": [
+      {
+        "name": "Restless Ninja's Call to Arms",
+        "effects": [
+          "35% Critical Hit chance boost.",
+          "100% Chance to apply Snare for 10sec after performing successful Special Attack 1.",
+          "300% Damage boost. Klassic Tower only",
+          "[SCORPION] [SET] If this is equipped alongside Restless Ninja's Figure, any DIAMOND Scorpion gains an ability to perform a Friendship. Once the last opponent's Health is below 25% and the Friendship bar is filled up by performing multiple Special Attacks, a Friendship can be performed, ending the fight immediately.",
+          "20% Chance to steal 5% of opponent's max Power on Basic Critical hts. (Unlocks at fusion level X)"
+        ]
+      }
+    ],
+    "ARMOR": [
+      {
+        "name": "Craftsman's Pride",
+        "effects": [
+          "30% Opponent unblockable attack chance reduction.",
+          "25% Chance to dodge a Special Attack.",
+          "600% Health boost. Klassic Tower only.",
+          "20% Opponent Critical Hit Chance reduction.(Unlocks at fusion level X)"
+        ]
+      }
+    ],
+    "ACCESSORY": [
+      {
+        "name": "Rockin' Token",
+        "effects": [
+          "25% Power generation boost.",
+          "Special Attack 1 deals 35% damage to all opponents.",
+          "150% Damage boost. Klassic Tower only.",
+          "300% Health boost. Klassic Tower only.",
+          "[TREMOR] [SET] If this is equipped alongside Rockin' Bowling Stones, any DIAMOND or ASCENDED Tremor gains a 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, a Brutality is performed instead of the Special Combo Ender, ending the fight immediately. (Unlocks at fusion level X)"
+        ]
+      }
+    ]
+  },
+  "UNCOMMON": {
+    "ACCESSORY": [
+      {
+        "name": "Mid-battle Snack",
+        "effects": [
+          "30% less damage from all attacks when blocking.",
+          "80% Damage boost. Klassic Tower only.",
+          "160% Health boost. Klassic Tower only.",
+          "When opponent breaks user's block, user gains Shield for 5 sec. (Unlocks at fusion level X)"
+        ]
+      },
+      {
+        "name": "Treasured Freebie",
+        "effects": [
+          "20% Special Attack 1 and 2 damage boost.",
+          "80% Damage boost. Klassic Tower only.",
+          "160% Health boost. Klassic Tower only.",
+          "0.5% Bar of Power on opponent's tag-in. (Unlocks at fusion level X)"
+        ]
+      },
+      {
+        "name": "Dearest Memory",
+        "effects": [
+          "20% All Special Attack unblockable chance.",
+          "80% Damage boost. Klassic Tower only.",
+          "160% Health boost. Klassic Tower only.",
+          "30% Chance to apply Shield Break on successful Special Attack. (Unlocks at fusion level X)"
+        ]
+      }
+    ]
+  }
+}

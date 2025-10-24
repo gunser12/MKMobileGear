@@ -1,0 +1,116 @@
+{
+  "EPIC": [
+    {
+      "name": "Dagger of Spirits",
+      "type": "Weapon",
+      "effects": [
+        "35% Reduced Power cost on all Special Attacks;",
+        "When the opponent blocks an incoming Special Attack, turn 50% of the blocked damage into Health;",
+        "600% Damage boost. ***Elder Wind Tower only.***",
+        "Special Attack 2 and X-Ray/Fatal Blow apply Oblivion debuff for 15sec. (*Unlocks at fusion level X*)"
+      ]
+    },
+    {
+      "name": "Matokan Bear Fang",
+      "type": "Weapon",
+      "effects": [
+        "50% Critical Hit chance boost;",
+        "Critical Hits on Special Attacks have 40% chance to Vampire the damage;",
+        "600% Damage boost. ***Elder Wind Tower only.***",
+        "[NIGHTWOLF] At the start of the match and on tag-in, gain Speed for 10sec. All Special Attacks have a 70% chance to apply Weaken;",
+        "[NIGHTWOLF][SET] If this is equipped alongside Matokan Snake Skin, any DIAMOND Nightwolf gains a 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, a Brutality is performed instead of the Special Combo Ender, ending the fight immediately.",
+        "Whenever the user resists or applies a debuff, gain 100% Critical Hit damage boost for 10sec. (*Unlocks at fusion level X*)"
+      ]
+    },
+    {
+      "name": "Varmint's Ace In The Hole",
+      "type": "Armor",
+      "effects": [
+        "300% Recovery boost;",
+        "Apply Shield Break on opponent's tag-in for 15sec;",
+        "1200% Max Health boost. ***Elder Wind Tower only.***",
+        "[ERRON BLACK] For 3 times during the match on tag-in, Erron Black challenges his opponent to duel that they cannot escape for 20sec. While the duel lasts, Erron Black has 70% chance to dodge any Special Attack. Each time Erron Black manages to kill his enemy during the duel, he gains 30% Critical Hit Chance boost till the end of the match. Erron Black loses if he tags out during the duel;",
+        "[ERRON BLACK][SET] If this is equipped alongside Varmint's Lucky Hat, any DIAMOND Erron Black gains a 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, a Brutality is performed instead of the Special Combo Ender, ending the fight immediately.",
+        "Once per match when the character receives fatal damage gain Invulnerability for 10sec and 1 bar of Power for your last shot. Character is not able to tag out during Invulnerability. (*Unlocks at fusion level X*)"
+      ]
+    },
+    {
+      "name": "Ceremonial Pipe",
+      "type": "Accessory",
+      "effects": [
+        "100% Damage boost while the character is not affected by any debuff;",
+        "Whenever an opponent tries to apply a positive combat effect on themselves, there is a 100% chance to steal the effect for the user. Unique personal buffs can't be stolen;",
+        "225% Damage boost. ***Elder Wind Tower only.***",
+        "450% Max Health boost. ***Elder Wind Tower only.***",
+        "30% Chance to apply a random buff to the user on Combo Ender. (*Unlocks at fusion level X*)"
+      ]
+    }
+  ],
+  "RARE": [
+    {
+      "name": "Widowmaker",
+      "type": "Weapon",
+      "effects": [
+        "80% Basic Attack damage boost;",
+        "Achieving 80%+ on any Special Attack increases the damage dealt by this Special Attack by 40%;",
+        "300% Damage boost. ***Elder Wind Tower only.***",
+        "Gain Luck on tag-in for 15sec. (*Unlocks at fusion level X*)"
+      ]
+    },
+    {
+      "name": "Matokan Snake Skin",
+      "type": "Armor",
+      "effects": [
+        "30% Resistance to all debuffs;",
+        "50% Opponent Critical Hit Chance reduction;",
+        "600% Max Health boost. ***Elder Wind Tower only.***",
+        "[NIGHTWOLF][SET] If this is equipped alongside Matokan Bear Fang, any DIAMOND Nightwolf gains a 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, a Brutality is performed instead of the Special Combo Ender, ending the fight immediately.",
+        "Apply Incurability at the start of the match and on the opponent's tag-in for 15sec. (*Unlocks at fusion level X*)"
+      ]
+    },
+    {
+      "name": "Varmint's Lucky Hat",
+      "type": "Accessory",
+      "effects": [
+        "20% Chance to steal 2% of opponent's max Power on Basic Attacks;",
+        "On tag-out gain 20sec of Team Shield;",
+        "150% Damage boost. ***Elder Wind Tower only.***",
+        "300% Max Health boost. ***Elder Wind Tower only.***",
+        "[ERRON BLACK][SET] If this is equipped alongside Varmint's Ace In The Hole, any DIAMOND Erron Black gains a 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, a Brutality is performed instead of the Special Combo Ender, ending the fight immediately.",
+        "All opponent team's characters need to collect 30% more Power to fill up each Power bar. (*Unlocks at fusion level X*)"
+      ]
+    }
+  ],
+  "UNCOMMON": [
+    {
+      "name": "Succotash",
+      "type": "Accessory",
+      "effects": [
+        "20% Max Health boost;",
+        "80% Damage boost. ***Elder Wind Tower only.***",
+        "160% Max Health boost. ***Elder Wind Tower only.***",
+        "0.5 Bar of starting Power. (*Unlocks at fusion level X*)"
+      ]
+    },
+    {
+      "name": "Moonshine",
+      "type": "Accessory",
+      "effects": [
+        "20% All Special Attacks unblockable chance;",
+        "80% Damage boost. ***Elder Wind Tower only.***",
+        "160% Max Health boost. ***Elder Wind Tower only.***",
+        "Damage from Special Attacks is reduced by 20%. (*Unlocks at fusion level X*)"
+      ]
+    },
+    {
+      "name": "Dreamcatcher",
+      "type": "Accessory",
+      "effects": [
+        "70% Combo Ender damage boost;",
+        "80% Damage boost. ***Elder Wind Tower only.***",
+        "160% Max Health boost. ***Elder Wind Tower only.***",
+        "60% Chance to apply Dispel on Special Attack 2. (*Unlocks at fusion level X*)"
+      ]
+    }
+  ]
+}

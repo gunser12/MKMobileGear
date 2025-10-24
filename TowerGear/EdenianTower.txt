@@ -1,0 +1,116 @@
+{
+  "EPIC": [
+    {
+      "name": "Princess Guard",
+      "type": "Weapon",
+      "effects": [
+        "15% Lethal Blow Chance boost;",
+        "Special Attack 2 applies **Incurability** debuff to the whole opponent team for 15 seconds. **Incurability** cancels the opponent's healing effects. Any healing, including Recovery, is also restricted while **Incurability** is active;",
+        "600% Damage boost; ***Edenian Tower only.***",
+        "When a user applies Lethal Blow next hit base damage is 150% higher. (*Unlocks at fusion level X*)"
+      ]
+    },
+    {
+      "name": "King Jerrod's Spear",
+      "type": "Weapon",
+      "effects": [
+        "1.5 Bar of starting Power;",
+        "50% Chance to apply **Snare** on any Special Attack;",
+        "600% Damage boost; ***Edenian Tower only.***",
+        "10% Chance Basic Attacks cause Lightning strike that deals 5% Max Health damage to the opponent. (*Unlocks at fusion level X*)"
+      ]
+    },
+    {
+      "name": "Divine Argus Cloak",
+      "type": "Armor",
+      "effects": [
+        "55% Max Health boost;",
+        "100% Chance to apply a random negative effect to an opponent who performed a Block Breaker attack against user. Max 3 negative effect on the opponent simultaneously;",
+        "1200% Max Health boost; ***Edenian Tower only.***",
+        "[RAIN] Whenever Rain applies **Soaked** there is 50% chance it spreads to the whole opponent team;",
+        "[RAIN][SET] If this is equipped alongside **Divine Tornadic Pauldron**, any DIAMOND Rain gains a 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, a Brutality is performed instead of the Special Combo Ender, ending the fight immediately.",
+        "15% Chance to gain **Invulnerability** for 5sec whenever affected by a negative effect. (*Unlocks at fusion level X*)"
+      ]
+    },
+    {
+      "name": "Dynasty Mask Of Madness",
+      "type": "Accessory",
+      "effects": [
+        "40% Resistance to all debuffs;",
+        "**Power Drain**, **Weaken** and **Shield Break** effects applied to the opponent are 35% more effective;",
+        "225% Damage boost; ***Edenian Tower only.***",
+        "450% Max Health boost; ***Edenian Tower only.***",
+        "[KITANA] After a Special Attack Performed against Kitana, she gains 50% Power generation for 10 seconds;",
+        "[KITANA][SET] If this is equipped alongside **Dynasty Parade Uniform**, any DIAMOND Kitana gains a 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, a Brutality is performed instead of the Special Combo Ender, ending the fight immediately.",
+        "30% Chance to perform Special Attack 1 with zero Power cost. (*Unlocks at fusion level X*)"
+      ]
+    }
+  ],
+  "RARE": [
+    {
+      "name": "Sapphire Dagger",
+      "type": "Weapon",
+      "effects": [
+        "50% Opponent Critical Hit Chance reduction;",
+        "30% Reduced Power cost on all Special Attacks;",
+        "300% Damage boost; ***Edenian Tower only.***",
+        "While a user is active, gain 6% Damage boost every 6 seconds. Maximum 60% damage boost. The user loses the stack after tag-out. (*Unlocks at fusion level X*)"
+      ]
+    },
+    {
+      "name": "Dynasty Parade Uniform",
+      "type": "Armor",
+      "effects": [
+        "50% Chance to apply **Shield Break** on Combo Ender;",
+        "65% Chance to gain **Regeneration** for 10 seconds after performing Special Attack 2;",
+        "600% Max Health boost; ***Edenian Tower only.***",
+        "[KITANA][SET] If this is equipped alongside **Dynasty Mask of Madness**, any DIAMOND Kitana gains a 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, a Brutality is performed instead of the Special Combo Ender, ending the fight immediately.",
+        "20% All Special Attacks damage boost. (*Unlocks at fusion level X*)"
+      ]
+    },
+    {
+      "name": "Divine Tornadic Pauldron",
+      "type": "Accessory",
+      "effects": [
+        "35% Critical Hit Chance boost;",
+        "15% Chance to gain **Strengthen** after user deals Critical Hit or Lethal Damage;",
+        "150% Damage boost; ***Edenian Tower only.***",
+        "300% Max Health boost; ***Edenian Tower only.***",
+        "[RAIN][SET] If this is equipped alongside **Divine Argus Cloak**, any DIAMOND Rain gains a 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, a Brutality is performed instead of the Special Combo Ender, ending the fight immediately.",
+        "**Strengthen** buffs can stack up to 3 times. (*Unlocks at fusion level X*)"
+      ]
+    }
+  ],
+  "UNCOMMON": [
+    {
+      "name": "Royal Wine",
+      "type": "Accessory",
+      "effects": [
+        "30% Chance to get **Luck** on Combo Ender;",
+        "80% Damage boost; ***Edenian Tower only.***",
+        "160% Max Health boost; ***Edenian Tower only.***",
+        "20% Basic attacks unblockable chance. (*Unlocks at fusion level X*)"
+      ]
+    },
+    {
+      "name": "Traitor's Wreath",
+      "type": "Accessory",
+      "effects": [
+        "100% Recovery boost;",
+        "80% Damage boost; ***Edenian Tower only.***",
+        "160% Max Health boost; ***Edenian Tower only.***",
+        "40% Resistance to Fire and Power Drain. (*Unlocks at fusion level X*)"
+      ]
+    },
+    {
+      "name": "Edenian Pie",
+      "type": "Accessory",
+      "effects": [
+        "15% Power generation boost;",
+        "80% Damage boost; ***Edenian Tower only.***",
+        "160% Max Health boost; ***Edenian Tower only.***",
+        "25% Incoming Damage reduction when the user is below 50% of Health. (*Unlocks at fusion level X*)"
+      ]
+    }
+  ]
+}

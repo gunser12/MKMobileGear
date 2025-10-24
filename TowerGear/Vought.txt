@@ -1,0 +1,115 @@
+{
+  "vought_tower_equipment": {
+    "EPIC": [
+      {
+        "name": "Special Agent's BUD-E",
+        "type": "Weapon",
+        "effects": [
+          "Gain Luck at the start of the match and on tag-in for 20sec;",
+          "10% chance to apply Snare on Critical Basic Hits for 15sec;",
+          "600% Damage boost; Vought Tower only.",
+          "[SONYA BLADE] On every 2 Combo Ender, Sonya Blade's Turret follows-up by shooting an explosive, which applies one of 3 negative effects in sequence for 15sec: Blind, Weaken, and Incurability.",
+          "[SONYA BLADE] If an opponent tries to apply one of these effects, 50% chance to reflect the effect back to the opponent.",
+          "For each active debuff on the opponent, the user's Special Attacks power cost is reduced by 10%. Maximum reduction - 50%. (Unlocks at fusion level X)"
+        ]
+      },
+      {
+        "name": "The Compound",
+        "type": "Weapon",
+        "effects": [
+          "15% Lethal Blow Chance boost;",
+          "Lethal Blows Vampire 30% of damage up to 40% of max Health when below 40% Health;",
+          "600% Damage boost; Vought Tower only.",
+          "Once in 10sec seconds while the User is tagged in, apply a random buff to the user for 10sec. Negative effects include Snare, Fracture, and Bane. Positive effects include Shield, Power, and Speed. (Unlocks at fusion level X)"
+        ]
+      },
+      {
+        "name": "The Patriot Shield",
+        "type": "Armor",
+        "effects": [
+          "40% Resistance to all debuffs;",
+          "50% Opponent unblockable attack chance reduction;",
+          "1200% Max Health boost; Vought Tower only.",
+          "Any Teammate has a 40% chance to reflect 30% of damage on the opponent's Special Attack. (Unlocks at fusion level X)"
+        ]
+      },
+      {
+        "name": "Kombat Service Emma",
+        "type": "Accessory",
+        "effects": [
+          "Apply Despair on tag-in and every 10sec while user is tagged in;",
+          "100% chance to apply Shield Break for 7sec before any Special Attack;",
+          "225% Damage boost; Vought Tower only.",
+          "450% Max Health boost; Vought Tower only.",
+          "[CASSIE CAGE] At the start of the Match and on tag-in, Cassie's dron creates an Energy Bubble equal to 25% of her max health. It applies Dispel, absorbs damage from all Attacks and reduces received Critical damage by 50%. When Energy Barrier depletes it explodes, applying Fracture.",
+          "Deal 1% max Health damage upon applying Despair from this equipment. Additionally, copy opponent's removed positive buffs for yourself. The copied buffs can stack. Unique personal effects are not affected. (Unlocks at fusion level X)"
+        ]
+      }
+    ],
+    "RARE": [
+      {
+        "name": "Kombat Service Sidearm",
+        "type": "Weapon",
+        "effects": [
+          "30% All Special Attacks unblockable chance;",
+          "6% Power generation boost after performing a Combo Ender. Maximum 30%. Resets after tag-out;",
+          "300% Damage boost; Vought Tower only.",
+          "10% Critical Hit Chance boost for every bar of power spent by the user. Maximum boost - 40%. (Unlocks at fusion level X)"
+        ]
+      },
+      {
+        "name": "Vought Prime Armor",
+        "type": "Armor",
+        "effects": [
+          "30% incoming damage reduction when the user is below 50% of Health;",
+          "All opponent team's characters need to collect 20% more Power to fill up each power bar;",
+          "600% Max Health boost; Vought Tower only.",
+          "On tag-out, gain 20sec of Team Shield. (Unlocks at fusion level X)"
+        ]
+      },
+      {
+        "name": "Special Agent's Fetch Trick",
+        "type": "Accessory",
+        "effects": [
+          "35% Basic Attacks unblockable chance;",
+          "15% Chance to steal 3% of opponent's Max Power on successful Basic Combo Attacks;",
+          "150% Damage boost; Vought Tower only.",
+          "300% Max Health boost; Vought Tower only.",
+          "For every bar of Power spent by the user's team, gain 25% Critical Hit Damage boost for 15sec. This Critical Hit Damage boost can stack up to 3 times. (Unlocks at fusion level X)"
+        ]
+      }
+    ],
+    "UNCOMMON": [
+      {
+        "name": "EMP Grenade",
+        "type": "Accessory",
+        "effects": [
+          "50% chance that on tag-in EMP Grenade is tossed at the opponent, applying Bleed, Fire or Poison for 15sec;",
+          "80% Damage boost; Vought Tower only.",
+          "160% Max Health boost; Vought Tower only.",
+          "When an EMP Grenade is tossed, it has a 35% chance to apply Stun. (Unlocks at fusion level X)"
+        ]
+      },
+      {
+        "name": "Mother's Love",
+        "type": "Accessory",
+        "effects": [
+          "100% Team Recovery boost;",
+          "80% Damage boost; Vought Tower only.",
+          "160% Max Health boost; Vought Tower only.",
+          "40% Opponent Critical Hit Chance reduction. (Unlocks at fusion level X)"
+        ]
+      },
+      {
+        "name": "PR Stunt",
+        "type": "Accessory",
+        "effects": [
+          "20% Power generation boost;",
+          "80% Damage boost; Vought Tower only.",
+          "160% Max Health boost; Vought Tower only.",
+          "Damage received from Special Attacks is reduced by 20%. (Unlocks at fusion level X)"
+        ]
+      }
+    ]
+  }
+}
