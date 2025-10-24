@@ -3,46 +3,46 @@
     "WEAPON": [
       {
         "name": "Thunder Lord's Stormweaver",
-        "stats": [
+        "effects": [
           "25% Attack boost;",
           "100% Chance to gain Dispel after performing a Special Attack;",
           "600% Damage boost. Nightmare Tower only.",
           "[RAIDEN] 30% Chance lightning will strike the opponent on basic attack, dealing additional damage.",
           "[RAIDEN][SET] If this is equipped alongside Thunder Lord's Sigil, any DIAMOND Raiden gains a 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, a Brutality is performed instead of the Special Combo Ender, ending the fight immediately.",
-          "1.5 Bar of starting Power."
+          "1.5 Bar of starting Power. (Unlocks at fusion level X)"
         ]
       },
       {
         "name": "Bi-Han's Tormentor",
-        "stats": [
+        "effects": [
           "15% Lethal Blow Chance boost;",
           "20% Reduced Power cost on all Special Attacks;",
           "600% Damage boost. Nightmare Tower only.",
           "[NOOB SAIBOT][SET] If this is equipped alongside Bi-Han's Visage, any DIAMOND Noob Saibot gains a 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, a Brutality is performed instead of the Special Combo Ender, ending the fight immediately.",
-          "[NOOB SAIBOT] Gain 1 Bar of Power after any teammate or ally Summon is defeated."
+          "[NOOB SAIBOT] Gain 1 Bar of Power after any teammate or ally Summon is defeated. (Unlocks at fusion level X)"
         ]
       }
     ],
     "ARMOR": [
       {
         "name": "Killer Jacket",
-        "stats": [
+        "effects": [
           "60% Toughness boost;",
           "100% Chance to gain Shield after suffering from a Lethal Blow;",
           "1200% Max Health boost. Nightmare Tower only.",
-          "Gain Shield at the start of the match."
+          "Gain Shield at the start of the match. (Unlocks at fusion level X)"
         ]
       }
     ],
     "ACCESSORY": [
       {
         "name": "Demon Bat",
-        "stats": [
+        "effects": [
           "After either the user or an opponent performs a Special Attack, a demon bat attacks the enemy, dealing additional damage and applying Bleed while dying in the process. Demon Bat respawns every 10 seconds.",
           "30% Power generation boost;",
           "225% Damage boost. Nightmare Tower only.",
           "450% Max Health boost. Nightmare Tower only.",
-          "When Demon Bat attacks an opponent affected by Bleed, the user heals for 20% of the victim's max health."
+          "When Demon Bat attacks an opponent affected by Bleed, the user heals for 20% of the victim's max health. (Unlocks at fusion level X)"
         ]
       }
     ]
@@ -51,36 +51,36 @@
     "WEAPON": [
       {
         "name": "Krypt Spider Fang",
-        "stats": [
+        "effects": [
           "40% Chance to apply Poison on Combo Ender;",
           "30% Chance to apply Weaken when Poison is applied;",
           "300% Damage boost. Nightmare Tower only.",
-          "Deal 35% more damage on Poison DOTs."
+          "Deal 35% more damage on Poison DOTs. (Unlocks at fusion level X)"
         ]
       }
     ],
     "ARMOR": [
       {
         "name": "Bi-Han's Visage",
-        "stats": [
+        "effects": [
           "35% Max Health boost;",
           "600% Max Health boost. Nightmare Tower only.",
           "25% Chance to reflect 100% basic attack damage when blocking.",
           "[NOOB SAIBOT][SET] If this is equipped alongside Bi-Han's Tormentor, any DIAMOND Noob Saibot gains a 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, a Brutality is performed instead of the Special Combo Ender, ending the fight immediately.",
-          "At the start of X-Ray/Fatality Blow, apply Death Mark."
+          "At the start of X-Ray/Fatality Blow, apply Death Mark. (Unlocks at fusion level X)"
         ]
       }
     ],
     "ACCESSORY": [
       {
         "name": "Thunder Lord's Sigil",
-        "stats": [
+        "effects": [
           "Deal 15% of non-boss opponent's health as additional damage on Stun;",
           "20% X-Ray/Fatal Blow attack damage boost;",
           "150% Damage boost. Nightmare Tower only.",
           "300% Max Health boost. Nightmare Tower only.",
           "[RAIDEN][SET] If this is equipped alongside Thunder Lord's Stormweaver, any DIAMOND Raiden gains a 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, a Brutality is performed instead of the Special Combo Ender, ending the fight immediately.",
-          "For each debuff removed by Dispel, gain 1 Strengthen buff. Strengthen buffs stack."
+          "For each debuff removed by Dispel, gain 1 Strengthen buff. Strengthen buffs stack. (Unlocks at fusion level X)"
         ]
       }
     ]
@@ -91,29 +91,29 @@
     "ACCESSORY": [
       {
         "name": "Trophy Collection",
-        "stats": [
+        "effects": [
           "100% Resistance to Bleed.",
           "80% Damage boost. Nightmare Tower only.",
           "160% Max Health boost. Nightmare Tower only.",
-          "[JASON VOORHEES] After being defeated, Jason resurrects and gains Strengthen and 1 Bar of Power."
+          "[JASON VOORHEES] After being defeated, Jason resurrects and gains Strengthen and 1 Bar of Power. (Unlocks at fusion level X)"
         ]
       },
       {
         "name": "Family Tools",
-        "stats": [
+        "effects": [
           "75% Resistance to Stun.",
           "80% Damage boost. Nightmare Tower only.",
           "160% Max Health boost. Nightmare Tower only.",
-          "[LEATHERFACE] Gain permanent Enrage when reduced below 20% health."
+          "[LEATHERFACE] Gain permanent Enrage when reduced below 20% health. (Unlocks at fusion level X)"
         ]
       },
       {
         "name": "Jump Rope Song",
-        "stats": [
+        "effects": [
           "50% Critical Hit damage boost.",
           "80% Damage boost. Nightmare Tower only.",
           "160% Max Health boost. Nightmare Tower only.",
-          "[FREDDY KRUEGER] 30% Chance to Stun on Special Attack 1."
+          "[FREDDY KRUEGER] 30% Chance to Stun on Special Attack 1. (Unlocks at fusion level X)"
         ]
       }
     ]

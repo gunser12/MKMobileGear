@@ -1,122 +1,115 @@
 {
-  "hellspawn_tower_equipment": {
-    "epic": {
-      "weapon": [
-        {
-          "name": "Blazing Training",
-          "effects": [
-            "15% Lethal Blow Chance boost;",
-            "100% chance to apply Shield Break for 7sec before any Special Attack;",
-            "600% Damage boost; ***Hellspawn Tower only.***",
-            "[LIU KANG] Liu Kang gains a stack of Courage after every Combo Ender. Max 4 stacks. For each stack, he has a 25% chance to perform Special Attack 1 instead of Combo Ender. Applies Stun on the opponent after SP1 is used this way. The Courage resets after triggering the effect.",
-            "[LIU KANG] [SET] If this is equipped alongside Blazing Girdle, any DIAMOND Liu Kang gains the ability to perform a Friendship. Once the opponent's Health is below 25% and the Friendship bar is filled up by performing multiple Special Attacks, a Friendship can be performed, ending the fight immediately.",
-            "While the user is active, gain 10% Damage boost every 4sec, maximum 100%. There is a 25% chance to also apply Blind for 8sec after receiving boost from this effect. (*Unlocks at fusion level X*)"
-          ]
-        },
-        {
-          "name": "Tempest Lasso",
-          "effects": [
-            "50% Basic Attacks unblockable chance;",
-            "100% Chance to apply Snare after performing Special Attack 1;",
-            "600% Damage boost; ***Hellspawn Tower only.***",
-            "[RAIDEN] 40% Chance to counter-attack opponent's Special Attacks with Tempest attack, dealing damage and applying Fire to the whole opponent team.",
-            "[RAIDEN] [SET] If this is equipped alongside Tempest Bangle, any DIAMOND Raiden gains the ability to perform a Friendship. Once the opponent's Health is below 25% and the Friendship bar is filled up by performing multiple Special Attacks, a Friendship can be performed, ending the fight immediately.",
-            "Gain 1 Bar of Power and Speed for 5sec on tag-in. (*Unlocks at fusion level X*)"
-          ]
-        }
-      ],
-      "armor": [
-        {
-          "name": "Fools Abductor",
-          "effects": [
-            "Reduces active opponent's power generation by 20%;",
-            "Steal 50% of the opponent's max Attack and max Health if the opponent meets their final death by the user;",
-            "1200% Max Health boost; ***Hellspawn Tower only.***",
-            "While tagged-in, whenever an opponent tries to apply a positive combat effect to themselves or their team, the effect copy is applied to the user. The copied buffs can stack. Unique personal effects are not affected. (*Unlocks at fusion level X*)"
-          ]
-        }
-      ],
-      "accessory": [
-        {
-          "name": "Damnation Visage",
-          "effects": [
-            "30% Power generation boost;",
-            "100% Chance to gain Strengthen after the user performs any Special Attack. Strengthen can stack up to 3 times.;",
-            "225% Damage boost; ***Hellspawn Tower only.***",
-            "450% Max Health boost; ***Hellspawn Tower only.***",
-            "75% chance to apply Team Power Drain on tag-in and every 13 seconds while the user is tagged in. (*Unlocks at fusion level X*)"
-          ]
-        }
-      ]
-    },
-    "rare": {
-      "weapon": [
-        {
-          "name": "Crown of Mind Control",
-          "effects": [
-            "30% All Special Attacks unblockable chance;",
-            "Apply Team Incurability for 20sec on Successful Special Attack 2;",
-            "300% Damage boost; ***Hellspawn Tower only.***",
-            "25% Chance to perform Special Attack 2 with zero Power cost. (*Unlocks at fusion level X*)"
-          ]
-        }
-      ],
-      "armor": [
-        {
-          "name": "Blazing Girdle",
-          "effects": [
-            "30% Opponent unblockable attack chance reduction;",
-            "15% Chance to apply Despair on successful Basic Attack;",
-            "600% Max Health boost; ***Hellspawn Tower only.***",
-            "[LIU KANG] [SET] If this is equipped alongside Blazing Training, any DIAMOND Liu Kang gains the ability to perform a Friendship. Once the opponent's Health is below 25% and the Friendship bar is filled up by performing multiple Special Attacks, a Friendship can be performed, ending the fight immediately.",
-            "Gain Shield at the start of the match and on tag-in for 10sec. (*Unlocks at fusion level X*)"
-          ]
-        }
-      ],
-      "accessory": [
-        {
-          "name": "Tempest Bangle",
-          "effects": [
-            "30% Reduced Power cost on all Special Attacks;",
-            "50% Reduced Snare and Slow duration applied to the user;",
-            "150% Damage boost; ***Hellspawn Tower only.***",
-            "300% Max Health boost; ***Hellspawn Tower only.***",
-            "[RAIDEN] [SET] If this is equipped alongside Tempest Lasso, any DIAMOND Raiden gains the ability to perform a Friendship. Once the opponent's Health is below 25% and the Friendship bar is filled up by performing multiple Special Attacks, a Friendship can be performed, ending the fight immediately.",
-            "Gain Regeneration upon successful tag-out for 7 sec. (*Unlocks at fusion level X*)"
-          ]
-        }
-      ]
-    },
-    "uncommon": {
-      "accessory": [
-        {
-          "name": "Gutless Grappler",
-          "effects": [
-            "20% Max Health boost;",
-            "80% Damage boost; ***Hellspawn Tower only.***",
-            "160% Max Health boost. ***Hellspawn Tower only.***",
-            "30% Chance to gain Dispel on Special Attack 1. (*Unlocks at fusion level X*)"
-          ]
-        },
-        {
-          "name": "Itchy Suffocation",
-          "effects": [
-            "50% Chance to apply Weaken on tag-in;",
-            "80% Damage boost; ***Hellspawn Tower only.***",
-            "160% Max Health boost. ***Hellspawn Tower only.***",
-            "Apply Bleed to random opponent upon applying Weaken. (*Unlocks at fusion level X*)"
-          ]
-        },
-        {
-          "name": "Scorched Sting",
-          "effects": [
-            "25% Chance to apply Fire on Combo Ender;",
-            "80% Damage boost; ***Hellspawn Tower only.***",
-            "160% Max Health boost. ***Hellspawn Tower only.***",
-            "25% Incoming Damage reduction when the user is below 50% of health. (*Unlocks at fusion level X*)"
-          ]
-        }
-      ]
-    }
+  "EPIC": {
+    "WEAPON": [
+      {
+        "name": "Blazing Training",
+        "effects": [
+          "15% Lethal Blow Chance boost;",
+          "100% chance to apply Shield Break for 7sec before any Special Attack;",
+          "600% Damage boost. Hellspawn Tower only.",
+          "[LIU KANG] Liu Kang gains a stack of Courage after every Combo Ender. Max 4 stacks. For each stack, he has a 25% chance to perform Special Attack 1 instead of Combo Ender. Applies Stun on the opponent after SP1 is used this way. The Courage resets after triggering the effect.",
+          "[LIU KANG] [SET] If this is equipped alongside Blazing Girdle, any DIAMOND Liu Kang gains the ability to perform a Friendship. Once the opponent's Health is below 25% and the Friendship bar is filled up by performing multiple Special Attacks, a Friendship can be performed, ending the fight immediately.",
+          "While the user is active, gain 10% Damage boost every 4sec, maximum 100%. There is a 25% chance to also apply Blind for 8sec after receiving boost from this effect. (Unlocks at fusion level X)"
+        ]
+      },
+      {
+        "name": "Tempest Lasso",
+        "effects": [
+          "50% Basic Attacks unblockable chance;",
+          "100% Chance to apply Snare after performing Special Attack 1;",
+          "600% Damage boost. Hellspawn Tower only.",
+          "[RAIDEN] 40% Chance to counter-attack opponent's Special Attacks with Tempest attack, dealing damage and applying Fire to the whole opponent team.",
+          "[RAIDEN] [SET] If this is equipped alongside Tempest Bangle, any DIAMOND Raiden gains the ability to perform a Friendship. Once the opponent's Health is below 25% and the Friendship bar is filled up by performing multiple Special Attacks, a Friendship can be performed, ending the fight immediately.",
+          "Gain 1 Bar of Power and Speed for 5sec on tag-in. (Unlocks at fusion level X)"
+        ]
+      },
+      {
+        "name": "Crown of Mind Control",
+        "effects": [
+          "30% All Special Attacks unblockable chance;",
+          "Apply Team Incurability for 20sec on Successful Special Attack 2;",
+          "300% Damage boost. Hellspawn Tower only.",
+          "25% Chance to perform Special Attack 2 with zero Power cost. (Unlocks at fusion level X)"
+        ]
+      }
+    ],
+    "ARMOR": [
+      {
+        "name": "Fools Abductor",
+        "effects": [
+          "Reduces active opponent's power generation by 20%;",
+          "Steal 50% of the opponent's max Attack and max Health if the opponent meets their final death by the user;",
+          "1200% Max Health boost. Hellspawn Tower only.",
+          "While tagged-in, whenever an opponent tries to apply a positive combat effect to themselves or their team, the effect copy is applied to the user. The copied buffs can stack. Unique personal effects are not affected. (Unlocks at fusion level X)"
+        ]
+      },
+      {
+        "name": "Blazing Girdle",
+        "effects": [
+          "30% Opponent unblockable attack chance reduction;",
+          "15% Chance to apply Despair on successful Basic Attack;",
+          "600% Max Health boost. Hellspawn Tower only.",
+          "[LIU KANG] [SET] If this is equipped alongside Blazing Training, any DIAMOND Liu Kang gains the ability to perform a Friendship. Once the opponent's Health is below 25% and the Friendship bar is filled up by performing multiple Special Attacks, a Friendship can be performed, ending the fight immediately.",
+          "Gain Shield at the start of the match and on tag-in for 10sec. (Unlocks at fusion level X)"
+        ]
+      }
+    ],
+    "ACCESSORY": [
+      {
+        "name": "Damnation Visage",
+        "effects": [
+          "30% Power generation boost;",
+          "100% Chance to gain Strengthen after the user performs any Special Attack. Strengthen can stack up to 3 times.;",
+          "225% Damage boost. Hellspawn Tower only.",
+          "450% Max Health boost. Hellspawn Tower only.",
+          "75% chance to apply Team Power Drain on tag-in and every 13 seconds while the user is tagged in. (Unlocks at fusion level X)"
+        ]
+      },
+      {
+        "name": "Tempest Bangle",
+        "effects": [
+          "30% Reduced Power cost on all Special Attacks;",
+          "50% Reduced Snare and Slow duration applied to the user;",
+          "150% Damage boost. Hellspawn Tower only.",
+          "300% Max Health boost. Hellspawn Tower only.",
+          "[RAIDEN] [SET] If this is equipped alongside Tempest Lasso, any DIAMOND Raiden gains the ability to perform a Friendship. Once the opponent's Health is below 25% and the Friendship bar is filled up by performing multiple Special Attacks, a Friendship can be performed, ending the fight immediately.",
+          "Gain Regeneration upon successful tag-out for 7 sec. (Unlocks at fusion level X)"
+        ]
+      }
+    ]
+  },
+  "RARE": [],
+  "UNCOMMON": {
+    "WEAPON": [],
+    "ARMOR": [],
+    "ACCESSORY": [
+      {
+        "name": "Gutless Grappler",
+        "effects": [
+          "20% Max Health boost;",
+          "80% Damage boost. Hellspawn Tower only.",
+          "160% Max Health boost. Hellspawn Tower only.",
+          "30% Chance to gain Dispel on Special Attack 1. (Unlocks at fusion level X)"
+        ]
+      },
+      {
+        "name": "Itchy Suffocation",
+        "effects": [
+          "50% Chance to apply Weaken on tag-in;",
+          "80% Damage boost. Hellspawn Tower only.",
+          "160% Max Health boost. Hellspawn Tower only.",
+          "Apply Bleed to random opponent upon applying Weaken. (Unlocks at fusion level X)"
+        ]
+      },
+      {
+        "name": "Scorched Sting",
+        "effects": [
+          "25% Chance to apply Fire on Combo Ender;",
+          "80% Damage boost. Hellspawn Tower only.",
+          "160% Max Health boost. Hellspawn Tower only.",
+          "25% Incoming Damage reduction when the user is below 50% of health. (Unlocks at fusion level X)"
+        ]
+      }
+    ]
   }
-}```
+}
