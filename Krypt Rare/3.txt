@@ -1,8 +1,0 @@
-RARE
-Royalguard's Cowl
-ARMOR
-
-Gain Power upon tag-in for 10sec.
-60% Chance to apply Oblivion on every 3rd Block Breaker attack.
-[JADE] [SET] If this is equipped alongside Royalguard's Emerald Haze, any DIAMOND Jade gains the ability to perform a Friendship. Once the opponent's Health is below 25% and the Friendship bar is filled up by performing multiple Special Attacks, a Friendship can be performed, ending the fight immediately.
-User's Special Attack Damage is increased by 5% for each active debuff on the opponent. Maximum Damage Boost - 30%.

@@ -1,8 +1,0 @@
-RARE
-Abyssal Wraith's Nightmare
-WEAPON
-
-60% Chance to apply Blind at the start of the match when equipped on a starting character and on user's tag-out for 10sec
-50% Chance to apply Death Mark when applying any other debuff on the active opponent.
-[NOOB SAIBOT] [SET] If this is equipped alongside Abyssal Wraith's Shadow, any DIAMOND Noob Saibot gains the ability to perform a Friendship. Once the opponent's Health is below 25% and the Friendship bar is filled up by performing multiple Special Attacks, a Friendship can be performed, ending the fight immediately.
-25% Damage boost and 10% Critical hit chance boost for each active Death Mark on the active opponent.

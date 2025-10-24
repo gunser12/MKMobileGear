@@ -1,9 +1,0 @@
-RARE
-Midnight Stalker's Sight
-WEAPON
-
-
-45% Basic Attacks unblockable chance.
-Achieving 90%+ on successful Special Attack 2 applies Silence for 15sec.
-[JASON VOORHEES] [SET] If this is equipped alongside Midnight Stalker's Curse, any DIAMOND or ASCENDED Fusion V Jason Voorhees gains a 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, Brutality is performed instead of the Special Combo Ender, ending the fight immediately.
-Gain 10% of Max power on each Block Breaker attack.

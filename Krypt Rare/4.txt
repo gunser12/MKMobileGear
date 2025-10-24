@@ -1,8 +1,0 @@
-RARE
-Noble Graceful Tread
-ARMOR
-
-50% Chance to apply Snare on Combo Ender, only if Snare is not already active.
-Critical Hits gain 50% more Power upon impact.
-[KITANA] [SET] If this is equipped alongside Noble Dainty Gesture, any DIAMOND Kitana gains the ability to perform a Friendship. Once the opponent's Health is below 25% and the Friendship bar is filled up by performing multiple Special Attacks, a Friendship can be performed, ending the fight immediately.
-60% chance to gain Shield for 5sec before any incoming Special Attack.

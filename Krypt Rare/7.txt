@@ -1,8 +1,0 @@
-RARE
-Enigmatic Lantern
-ARMOR
-
-25% Critical Hit chance boost.
-30% Resistance to all debuffs.
-[SHANG TSUNG] [SET] If this is equipped alongside Enigmatic Well of Souls, any DIAMOND Shang Tsung gains the ability to perform a Friendship. Once the opponent's Health is below 25% and the Friendship bar is filled up by performing multiple Special Attacks, a Friendship can be performed, ending the fight immediately.
-All opponent team's characters need to collect 30% more Power to fill up each Power bar.

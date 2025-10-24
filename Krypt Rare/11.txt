@@ -1,8 +1,0 @@
-RARE
-Rebirth Hooks
-WEAPON
-
-30% All Special Attacks unblockable chance.
-Gain Luck on tag-in for 15sec
-[KABAL] [SET] If this is equipped alongside Rebirth Liquid, any DIAMOND Kabal gains the ability to perform a Friendship. Once the opponent's Health is below 25% and the Friendship bar is filled up by performing multiple Special Attacks, a Friendship can be performed, ending the fight immediately.
-Block Breaker Special Attacks deal additional 10% max Health damage.
